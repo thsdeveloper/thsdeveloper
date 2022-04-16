@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
-<p>Bem vindo a minha página! </br>Sou o Thiago Pereira, Front-end developer em <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brasília, Distrito Federal</b>, <b>atualmente moro por aqui mesmo!</b></p>
+<p>Welcome to my page! </br>I'm Thiago Pereira, Front-end developer in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <bBrasília, Distrito Federal</b>, <b> I currently live here!</b></p>
 <h3>Things I code with - Code Skills</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
